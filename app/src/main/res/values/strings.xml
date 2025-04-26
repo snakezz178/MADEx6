@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SD Card</string>
+    <string name="name">Name</string>
+    <string name="roll_no">Roll No</string>
+    <string name="cgpa">CGPA</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>
